@@ -20,6 +20,10 @@ CortexTrade/ ├── cortex_core/ # Core engine modules (data, execution, logg
 
 python main.py --config configs/default_config.yaml
 
+
+🧠 Let's Build Together
+Feel free to fork, contribute, and raise issues. CortexTrade is open to the community of AI-driven quants and innovators.
+
 💡 Coming Soon (Roadmap)
  Reinforcement Learning agents
 
