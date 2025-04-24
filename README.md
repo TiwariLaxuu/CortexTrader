@@ -25,8 +25,9 @@ python main.py --config configs/default_config.yaml
 Feel free to fork, contribute, and raise issues. CortexTrade is open to the community of AI-driven quants and innovators.
 
 💡 Coming Soon (Roadmap)
- Reinforcement Learning agents
+ 
+ - Reinforcement Learning agents
 
- LLM-based strategy generation
+ - LLM-based strategy generation
 
- Live trading with exchange integration
+ - Live trading with exchange integration
