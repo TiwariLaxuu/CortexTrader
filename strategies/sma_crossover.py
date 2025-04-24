@@ -1,3 +1,6 @@
+import pandas as pd
+from cortex_core.strategy_base import Strategy
+
 class SMACrossover(Strategy):
     def __init__(self, short_window=20, long_window=50):
         self.short_window = short_window

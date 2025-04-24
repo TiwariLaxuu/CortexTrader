@@ -1,4 +1,10 @@
 import pandas as pd
+import sys
+import os
+
+# Add project root directory to Python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from strategies.sma_crossover import SMACrossover
 
 def test_sma_strategy():
