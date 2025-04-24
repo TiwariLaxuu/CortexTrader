@@ -16,3 +16,13 @@ To build the world's most intelligent autonomous trading framework — combining
 - Logging and performance tracking
 
 CortexTrade/ ├── cortex_core/ # Core engine modules (data, execution, logging) ├── strategies/ # Strategy modules ├── configs/ # YAML configuration files ├── tests/ # Unit tests ├── main.py # Entrypoint
+
+
+python main.py --config configs/default_config.yaml
+
+💡 Coming Soon (Roadmap)
+ Reinforcement Learning agents
+
+ LLM-based strategy generation
+
+ Live trading with exchange integration
